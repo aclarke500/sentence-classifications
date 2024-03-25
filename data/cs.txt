@@ -1,0 +1,3941 @@
+I'm pretty surprised to be honest and did not expect it, especially considering I joined as a junior several years ago completely self taught (then later went on to get my degree as the company paid for it).
+
+We're a big tech company, fully remote, starting pay for juniors is around ~150k USD.
+
+According to upper management, it's because the volume of self-taught applicants is too high (a few thousand per posting) and the quality of self-taught applicants is too low. Apparently a lot of teams have hired self taught developers and it's gone very bad.
+
+So as a result, the company announced Friday that it would no longer be hiring self-taught applicants and instead will require candidates to have a degree in Computer Science, Computer Engineering or Software Engineering.
+
+Anyone else experienced this?
+
+t's a buyer's market. So they can be choosy.
+
+If you are the engineer that does the first technical interview (the screen), you understand...
+
+
+Upvote
+115
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+20 more replies
+u/TRBigStick avatar
+TRBigStick
+•
+8h ago
+DevOps Engineer
+The variance of self-taught developers is just too high compared to the variance of CS/CE graduates. There are plenty of people with degrees looking for jobs right now, so it makes way more sense to hire the low-risk average-reward option.
+
+
+
+Upvote
+1.1K
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/klowny avatar
+klowny
+•
+4h ago
+L7
+We were given that directive well before the pandemic when bootcamps started popping off. It's not that self taught couldn't be good, it was that it was easier finding someone equally good and passionate with a CS degree if you were offering competitive compensation. There's just less roughs to sift through to find the diamond when you start with only degree holders.
+
+
+Upvote
+56
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/xdeskfuckit avatar
+xdeskfuckit
+•
+7h ago
+Why doesn't applied math count? 😭😭😭
+
+I got a master's in cryptography, but that isn't good enough?
+
+
+
+Upvote
+109
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+theusualguy512
+•
+7h ago
+Graduate Student
+I'm not a mathematician but am I wrong in thinking cryptographers and mathematicians in the number theory/cryptography area usually go for analyst and intelligence positions? Is that outside of what you want to do?
+
+I think standards organizations like NIST or government agencies like the NSA do look for cryptographers or mathematicians who are specialized in that area even if it's not a developer job.
+
+
+
+Upvote
+74
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/xdeskfuckit avatar
+xdeskfuckit
+•
+7h ago
+I kinda like to smoke weed occasionally and I didn't finish my PhD, so I'm not the most attractive candidate for a lot of the good cryptography positions. I wrote a lot of code in school and during my side jobs, so i don't find myself struggling as a developer. Everyone wants a job in big tech, but I guess I'll have to wait until I'm mid-level to apply.
+
+
+
+Upvote
+55
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Ok-Replacement9143 avatar
+Ok-Replacement9143
+•
+5h ago
+I laughed because I imagined you putting "I kinda like to smoke weed" on your CV. 
+
+
+
+Upvote
+55
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/xdeskfuckit avatar
+xdeskfuckit
+•
+5h ago
+For all the doors it closes, it opens twice as many.
+
+
+
+Upvote
+17
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/real_men_fuck_men avatar
+real_men_fuck_men
+•
+5h ago
+I usually close my home office door so that I don’t box the whole house
+
+
+Upvote
+13
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+3 more replies
+toosemakesthings
+•
+4h ago
+Man, I'm sorry if you don't wanna hear this but if you're turning down long-term career opportunities because you "kinda like to smoke weed occasionally" then your weed hobby is dragging you down more than it is pulling you up. Godspeed.
+
+
+Upvote
+17
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+4 more replies
+
+15 more replies
+u/no-soy-imaginativo avatar
+no-soy-imaginativo
+•
+7h ago
+It's weird, because my BS in Math definitely helped me get my first coding job (which was at a large company) and was seen as a plus.
+
+
+
+Upvote
+24
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+gmora_gt
+•
+3h ago
+career break (MSCS); 3Y XP @ YC-backed startup
+Same here, math degree seen as a plus. Started out at a (no-leetcode-needed) startup though.
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+3 more replies
+u/CalRobert avatar
+CalRobert
+•
+7h ago
+•
+Edited 3h ago
+Some of the worst code I've ever seen was from a math PhD. Got offended when I said to give variables meaningful names. Still though, that's rough. My degree is in physics so I'd be screwed too
+
+
+
+Upvote
+47
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Admirral avatar
+Admirral
+•
+6h ago
+Im a physics grad here as well. I wouldn't really think twice about this at the end of the day. Just apply and move on if they don't send back. The real issue here isn't about credentials, its the fact that companies are overwhelmed with applicants and most of them are shit (they lie, they scam, they get overwmployed, they don't care about the company just about collecting that paycheck). The key is to somehow bypass this lineup of trash. You need to get vetted somewhere.
+
+
+Upvote
+21
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+4 more replies
+u/misogrumpy avatar
+misogrumpy
+•
+7h ago
+This is a math PhD who has literally never tried understand the first thing about software development.
+
+
+
+Upvote
+19
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/xdeskfuckit avatar
+xdeskfuckit
+•
+7h ago
+Yeah idk I took as many CS courses as I could without majoring in the subject.
+
+
+Upvote
+7
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Ok-Replacement9143 avatar
+Ok-Replacement9143
+•
+5h ago
+You made me remember when I started my PhD and was forced to go from Python to Fortran. Back then I named variables as their physical counterpart. So lets say you have a light and a heavy particle, name their massss m and M, obviously. It took me a few days to realise that Fortran doesn't distinguish between lower and upper case!
+
+
+Upvote
+10
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/PLZ-PM-ME-UR-TITS avatar
+PLZ-PM-ME-UR-TITS
+•
+4h ago
+Ha, as someone who studied math and physics in school, this checks out. If they could hire someone to code for them on the cheap, they probably would
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+met0xff
+•
+4h ago
+Hah, I've worked with many mathematicians and physicists and this is what I never got. They go through those really difficult studies and then are not able to see the advantage of descriptive variable names. Or version control that's not Google drive. And generally don't have a huge mess in their code and everywhere. I am far from those OCD code polish devs but what I've seen from them is crazy. Some server with million scripts everywhere, random text files for notes everywhere.
+
+I was one of the few CS background people at a telecommunications research center where I did my PhD... with lots of EEs, physicists, mathematicians and me and my other CS colleague often felt like janitors.
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+3 more replies
+
+7 more replies
+Xnuiem
+•
+5h ago
+CTO/VP (DFW, TX, USA)
+Do not let your degree define you or your career . I hired multiple developers with degrees that are not technology related much less CS. And they have been phenomenal. Two of my absolute best ever both had philosophy degrees from D1 NCAA schools.
+
+
+
+Upvote
+8
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/bminusmusic avatar
+bminusmusic
+•
+3h ago
+I was a Philosophy major and (pure) math minor. If you put a bit of emphasis on formal logic in your studies, I think Philosophy can provide an excellent foundation for learning different technical skills in your career
+
+
+Upvote
+9
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+2 more replies
+u/themiro avatar
+themiro
+•
+6h ago
+it almost certainly does count, they mean they're only hiring Physics/Math/CS undergrads
+
+
+
+Upvote
+16
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+kal40
+•
+5h ago
+Oh no! Doesn't engineering count? 😗😂
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+5 more replies
+
+1 more reply
+u/JohnHwagi avatar
+JohnHwagi
+•
+5h ago
+Any engineering/math degree can you get your foot in the door if you can code well. I doubt you’ll have much trouble if you apply a lot. I know a ton of EE grads at my job doing software.
+
+
+Upvote
+3
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+23 more replies
+u/uncleXjemima avatar
+uncleXjemima
+•
+1h ago
+Low risk average reward is how I often describe myself on first dates
+
+
+Upvote
+3
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Obmanuti
+•
+7h ago
+Software Engineer
+That's what interviews are for. I've met plenty of very mediocre software engineers with degrees. I would say its harder to find that in successful self taught people because they don't get hired for having the degree alone. Using the degree system in CS is actually bonkers to me because it's often way different than the work and taught by people who've never done the work.
+
+The variance is pretty high regardless which is why your hiring process should use the interview to reduce that variance. Not something as arbitrary as a degree requirement.
+
+That being said, for a field that has some of the smartest people creating clever solutions every day, it is also swamped by mediocrity.
+
+
+
+Upvote
+28
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Nailcannon avatar
+Nailcannon
+•
+6h ago
+Senior Consultant
+The problem here is the distribution of skill and scalability. We can't interview everyone who lands a resume at our table, not even close. So the observation is made that self taught devs skew lower in comparison to college educated devs. A dev who's one standard deviation above the average college taught dev might be two standard deviations above the average self taught dev(obviously hypothetical numbers). So that observation is used to help the process scale by cutting down the already overwhelming amount of candidates into a still slightly overwhelming amount of candidates with college education.
+
+
+Upvote
+39
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Khandakerex
+•
+6h ago
+Yes that's what interviews are for but companies dont want to interview that many people and will always take the path of least resistance, they need arbitrary restrictions of barrier to entry. Right now that is having a CS degree. I am willing to bet in 5-10 years it will be WHICH college you go to and it's ranking.
+
+
+
+Upvote
+49
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Hawk13424 avatar
+Hawk13424
+•
+5h ago
+Already is where I work. Specifically universities we trust. Remember we have a pretty good amount of data on which schools have graduated people that worked out best for us. And we go further and have relationships with professors. We specifically have our best employees spend some time in outreach to their alma mater and the professors that teach the classes most closely related to our work.
+
+
+Upvote
+5
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+10 more replies
+u/TRBigStick avatar
+TRBigStick
+•
+6h ago
+DevOps Engineer
+Interviews take time.
+
+It would be dope if companies could interview every single person who applies for a position, but that’s simply not possible. Resumes and degrees quite literally exist as filters to maximize candidate quality while minimizing time spent interviewing.
+
+So maybe you’re right that a self-taught person who got into development is better than your median CS grad. But being the first company to hire that self-taught person is a massive risk.
+
+
+Upvote
+17
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+TheDutchGamer20
+•
+6h ago
+I don’t really agree. For a Junior position you are hiring people with little to no experience. Having a degree shows you had the perseverance to complete the degree, and that you at least have some basic knowledge. This does decrease the variance.
+
+Even where you got your degree can decrease the variance(some are more theoretical, some more focused on software development etc).
+
+
+Upvote
+18
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+3 more replies
+u/Hawk13424 avatar
+Hawk13424
+•
+5h ago
+Easier for us to select specific universities we trust. We have a relationship with the professors from those and know they don’t inflate grades or give out recommendations like candy. That gives us a first order filter. The interview is then for finding the best within that group.
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+3 more replies
+
+19 more replies
+u/Effective_Hope_3071 avatar
+Effective_Hope_3071
+•
+8h ago
+Looking for internship
+Barriers to entry restrict or loosen to control the flow of labor so it's not surprising. 
+
+Companies can be as picky as they want right now, the market is flooded with experienced laid off devs.
+
+
+
+Upvote
+357
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/snkscore avatar
+snkscore
+•
+7h ago
+the market is flooded with experienced laid off devs.
+
+Counter intuitively, we've never seen so many unqualified applicants with our open positions. Our fail rate for interview loops is way up.
+
+I don't know what to make of it. Maybe folks are less likely to job hop at this moment so we're only getting those who were let go or couldn't find a job? I know it wasn't only low performers who have been laid off, but not sure what to make of the situation otherwise.
+
+
+
+Upvote
+59
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/KittyTerror avatar
+KittyTerror
+•
+5h ago
+Software Engineer
+My company is experiencing the exact same thing, and anecdotally I can confirm from giving out technical interviews
+
+
+Upvote
+25
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Drayenn avatar
+Drayenn
+•
+5h ago
+Wonder if youre getting devs who have worked in one place only for a long time and are out of touxu on several points due to it, leading to the failures you get?
+
+
+Upvote
+12
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+8 more replies
+u/Fe1onious_Monk avatar
+Fe1onious_Monk
+•
+6h ago
+I remember when I started seeing minimum requirement of bachelor’s degree for secretary/front desk. This was during the 08 recession and all of a sudden every employer was asking for a bachelor’s for every position just because they could.
+
+
+Upvote
+22
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+CobblinSquatters
+•
+7h ago
+Exactly why we know no junior is making 150k right after graduation.
+
+Op is in the comments using alts
+
+
+
+Upvote
+51
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+anotherguiltymom
+•
+7h ago
+Big tech continues to hire (although significantly less) and they can’t pay juniors less than what the established range for juniors is inside the company. The crazy stock sign on bonuses may be gone, but the standard base plus yearly bonus will still make it so compensation for new hires is around $150k+ for new grads in big N.
+
+
+Upvote
+48
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+28 more replies
+garnett8
+•
+7h ago
+Software Engineer
+Yes they are if they are in a VHCOL area and in the right company. We hire our new grads all cash at 180-210k.
+
+
+Upvote
+10
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Ok-Entertainer-1414
+•
+7h ago
+150k is a pretty believable Big Tech TC for new grads though? That was the Google new grad TC ~a decade ago. It's only gone up since then, and Google doesn't even make the list of top paying companies for entry level on levels.fyi anymore
+
+
+
+Upvote
+21
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+kingp1ng
+•
+5h ago
+I think most people are referring to the self-taught / transition candidates... in big tech. The top tier new grads are just on another playing field.
+
+The conversation theme deviates so much that idk what we're even comparing against lol
+
+
+Upvote
+3
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+papa-hare
+•
+7h ago
+We hire juniors and pay them $150k (actually a bit more). We are in a HCoL area though. And we're hiring way less.
+
+
+Upvote
+6
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Deweydc18 avatar
+Deweydc18
+•
+6h ago
+Dude what? That’s a very believable comp. Every FAANG company pays over $150k in the US and there are probably at least 50 other tech companies that do.
+
+There are a fair number of companies that pay $200k+ to new grads and in quant it’s standard to pay north of $300k and sometimes over & $500k for new grads.
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Ielaarig avatar
+Ielaarig
+•
+7h ago
+i’m a 2023 new grad who has been making 150k since august and am about to go back to Amazon for 200k, do I not exist?
+
+many juniors start with a lot of money, especially in big tech.. idk why that’s so unbelievable for this sub, anyone can verify these things at levels.fyi
+
+
+
+Upvote
+12
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+cs-grad-person-man
+OP
+•
+7h ago
+i’m a 2023 new grad who has been making 150k since august and am about to go back to Amazon for 200k, do I not exist?
+
+Clearly you're one of my alt accounts.
+
+
+Upvote
+10
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+2 more replies
+u/haveacorona20 avatar
+haveacorona20
+•
+6h ago
+First red flag for me.
+
+
+Upvote
+3
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+cs-grad-person-man
+OP
+•
+7h ago
+Op is in the comments using alts
+
+Plot twist: you are one of my alt accounts
+
+
+Upvote
+15
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+3 more replies
+
+4 more replies
+SuhDudeGoBlue
+•
+7h ago
+Sr. ML Engineer
+$150k fully remote for new grads (assuming they can work anywhere in the United States) is solid. They can command much higher filters in this kind of market tbh.
+
+
+
+Upvote
+71
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Dopium_Typhoon
+•
+2h ago
+I agree, that’s fucking big bags for anything with the tag “junior”.
+
+
+
+Upvote
+7
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+_WhereIsMyRemote
+•
+48m ago
+Yeah that is a senior level salary in most states
+
+
+Upvote
+6
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+kevinossia
+•
+8h ago
+Senior Wizard - AR/VR | C++
+As a self-taught software engineer I understand where your company is coming from. It's about risk. I got insanely lucky with a sink-or-swim opportunity many years ago and most people would've sunk.
+
+It's better to just get a CS degree.
+
+
+
+Upvote
+146
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/x11obfuscation avatar
+x11obfuscation
+•
+6h ago
+I dropped out my senior year to work, and never finished. The lack of a degree shut some doors on me at some points early in my career. Even today many years later running my own business, my value in some peoples’ minds (many of my clients have advanced degrees) is diminished when they find I don’t have a degree. I wish I had just finished. If you’re under 25 and can afford to spend a couple years getting a degree, do it.
+
+
+
+Upvote
+47
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+MurlockHolmes
+•
+6h ago
+The Guy Who Keeps Bringing Up Category Theory
+You can go back and finish part time if it really matters to you, right? Anecdotally the only business owners I know irl don't have college degrees, one doesn't even have a high school degree, so if it were me personally I wouldn't bother regardless of what anyone with an advanced degree might think.
+
+
+
+Upvote
+13
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/x11obfuscation avatar
+x11obfuscation
+•
+5h ago
+•
+Edited 5h ago
+It’s a matter of priorities. I’m in my 40s and likely past the halfway point of my career. With the amount of time it would take to go back and finish (likely having to redo many classes at this point), I could instead complete dozens of projects for clients worth over $500k in aggregate (note that includes funds I pay to my employees). If my work dried up completely, I’d probably go back though.
+
+I appreciate your anecdotal experience. It makes me feel better about myself! 20 years in, and I still am struggling with imposter syndrome.
+
+
+Upvote
+17
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+
+1 more reply
+
+2 more replies
+daddyaries
+•
+7h ago
+Big tech company, fully remote, juniors starting @$150k, and yall were hiring self taught ppl for this position? You gotta be lying about something here lol
+
+
+
+Upvote
+183
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Ok-Entertainer-1414
+•
+7h ago
+If you take a broad view of "big tech" it's pretty believable. Airbnb, Dropbox, Pinterest, Instacart, Shopify, Square are fully remote and pay in that range for new grads. And a lot of tech companies historically have been willing to interview self-taught people, if their resumes stick out in some other way like open source contributions, or high percentile scores in programming competitions. (I interviewed several people with no CS-related degrees at Google.)
+
+
+
+Upvote
+43
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/_176_ avatar
+_176_
+•
+5h ago
+Airbnb, Dropbox, Pinterest, Instacart, Shopify, Square
+
+None of these companies would send this kind of email to everyone.
+
+
+
+Upvote
+7
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Ok-Entertainer-1414
+•
+5h ago
+I did not understand OP's post to mean a company-wide email
+
+
+
+Upvote
+6
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/_176_ avatar
+_176_
+•
+5h ago
+That's fair. They said,
+
+the company announced Friday that it would no longer be hiring self-taught applicants
+
+I guess it could have been at something like a company wide all hands meeting.
+
+
+
+Upvote
+3
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Ok-Entertainer-1414
+•
+4h ago
+A big company has to communicate a policy change like this to a lot of people to be effective - hiring managers, HR, dedicated recruiters, you might tell ICs who conduct interviews as a courtesy... enough people that it's not wrong to consider it an announcement. And they also probably won't say "by the way, keep this a secret". So pretty much everyone is gonna know
+
+
+
+Upvote
+8
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/_176_ avatar
+_176_
+•
+4h ago
+A big company would tell the recruiting team within HR and maybe update some internal HR docs. How they filter applicants changes a lot and they're not going to announce every change to everyone.
+
+And they're certainly not going to give this much info about the change to ICs,
+
+According to upper management, it's because the volume of self-taught applicants is too high (a few thousand per posting) and the quality of self-taught applicants is too low. Apparently a lot of teams have hired self taught developers and it's gone very bad.
+
+But sure, maybe they told HR and then leadership and OP's director or VP gave some candid talk to his org. But this would be extremely strange behavior at big tech.
+
+
+Upvote
+3
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+3 more replies
+no2K7
+•
+5h ago
+I'm self taught and looking to join a new company, don't even have a resume written yet but my first software (wrote it from scratch, and maintain - backend and frontend) has been live for 4 years now with over 1k paying subscribers. I hope that in itself helps my resume stick out.
+
+
+Upvote
+5
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+6 more replies
+
+3 more replies
+u/completeidiot158 avatar
+completeidiot158
+•
+6h ago
+It feels kinda suspicious to me to. Like why would the whole company know about the HR policy.
+
+
+Upvote
+7
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+17 more replies
+u/fsk avatar
+fsk
+•
+7h ago
+The one thing I'm surprised is they aren't accepting STEM software-adjacent degrees (Math, Physics, Engineering, etc.).
+
+
+
+Upvote
+69
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+nuclear_knucklehead
+•
+7h ago
+Things like applied mathematics and various fields of physics and engineering confer just as much professional competence as an entry level CS degree. Having the additional domain expertise can even be an advantage.
+
+
+
+Upvote
+34
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/kater543 avatar
+kater543
+•
+6h ago
+Maybe they actually want semi-experienced coders who have a history of learning random esoteric dialects of established languages, and math/physics majors would probably not be super experienced in that learning cycle, rather would be more about how to do small amounts of coding to fit their use case? I say this as a stats major who has worked with many CS and math majors.
+
+
+Upvote
+18
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+7 more replies
+
+3 more replies
+TravisLedo
+•
+6h ago
+I think just because you have a degree in physics doesn’t mean you took any coding classes. So it’s still kind of self taught if you do code. Those people for sure have the brain to code but it’s still considered self taught I guess. Looks like they want people who actually got a degree that focused on it.
+
+
+Upvote
+17
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+13 more replies
+u/termd avatar
+termd
+•
+6h ago
+Software Engineer
+I'd be shocked if a directive like this didn't have the words "or similar degrees", where the similar degree category includes math and EE.
+
+
+Upvote
+3
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+4 more replies
+u/Respectful_Platypus avatar
+Respectful_Platypus
+•
+7h ago
+To be fair, I’ve worked with some CS degree SWEs that produce garbage so even that’s no guarantee 🤣
+
+
+
+Upvote
+82
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+TangerineBand
+•
+7h ago
+Throwback to my classmate in a senior level class who still could not program their own loops. Like they could regurgitate the textbook examples to me verbatim but not actually explain what they meant.
+
+
+
+Upvote
+14
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+MrDrSirWalrusBacon
+•
+4h ago
+Graduate Student
+I had a guy in my data struct and algorithms class who didn't know how to print in Java. The prerequisite was OOP in Java. He asked me how and I was in so much shock that I just ended up staring at him for a couple seconds. I graduated with lots of cheaters.
+
+
+Upvote
+7
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+u/BellacosePlayer avatar
+BellacosePlayer
+•
+5h ago
+Software Engineer
+Well now I feel like a bit of an asshole being internally judgemental about the class/teammates of mine who were struggling on that topic in CS150.
+
+
+Upvote
+3
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/NoWorld112233 avatar
+NoWorld112233
+•
+3h ago
+•
+Edited 3h ago
+I've noticed that the purpose of classes in school is often just to speed run students to the next class...no regard for even a quick summary of why it matters.
+
+It's like Calculus, which is useful but teachers rarely explain the basic application sections of the material... which is knowing how rates or sums of change really work.
+
+
+Upvote
+3
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+4 more replies
+Dry-Magician1415
+•
+7h ago
+I mean, yeah… outliers.
+
+The point is that the quality variance of qualified vs that of self taught is more reliable. With qualified there should be at least a minimum level of quality (notwithstanding the odd outlier) whereas with self taught they can’t be sure how low “low” is. 
+
+
+Upvote
+19
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+7 more replies
+jakl8811
+•
+6h ago
+Yeah it’s not about exceptions, but mitigating risks. I don’t think it’s unrealistic to see that self taught candidates carry more risk.
+
+Could there be some ridiculously talented self taught dev? Sure
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+
+5 more replies
+KevinCarbonara
+•
+4h ago
+We're a big tech company, fully remote, starting pay for juniors is around ~150k USD.
+
+This just sounds fake. Judging by the username and posting history, I'd guess that it is.
+
+
+Upvote
+8
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+OldHuntersNeverDie
+•
+3h ago
+A lot of Redditors want to reflexively poop on traditional degrees from reputable Universities/Colleges because frankly it was kind of trendy to and also a lot of folks don't have a 4 year degree, so I think inferiority complex definitely played a part. Granted, there's legit cons (time commitment, varying roi, access, etc.) tied to a 4 year degree. However, in the vast majority of cases, a degree in CS/CIS is the right way to go...even an Associates tbh. A formal education provides a solid foundation, level of rigor and depth that learning just on your own will not provide. I 100% get why some companies are hesitant to hire self taught Developers and filter out non-degreed applicants for Junior positions. Having said that, of course there's always exceptions to this and I applaud anyone that is self taught and is able to acquire a lot of the foundational stuff you'd miss by not getting a degree in CS/CIS (theory, engineering, math in the case of CS and business/domain knowledge in the case of CIS).
+
+
+Upvote
+7
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+OiaOrca
+•
+7h ago
+I have a feeling this is a troll post.
+
+
+
+Upvote
+23
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+CobblinSquatters
+•
+7h ago
+It's 100% rage bait.
+
+
+Upvote
+14
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+
+3 more replies
+rbuenoj
+•
+7h ago
+This post smell fake
+
+
+
+Upvote
+21
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/keyboardcreature2 avatar
+keyboardcreature2
+•
+5h ago
+Unqualified Senior Engineer
+Things like this are very hush hush and would be kept to HR. No way upper management would communicate this to the masses. I get the feeling OP is a CS grad who can't land a job and figures there's no harm in discouraging the competition.
+
+
+Upvote
+8
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+4 more replies
+jrt364
+•
+8h ago
+Software Engineer
+I have a master's in CS, but I have met plenty of self-taught people who are excellent engineers and I have met plenty of shit engineers with CS master's degrees.
+
+Sounds like your company's hiring managers are not doing a good job when interviewing candidates. Even if your company bans managers from hiring self-taught candidates, there is still the problem of managers hiring unqualified people. That needs to be fixed.
+
+
+
+Upvote
+79
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Upstairs_Big_8495
+•
+7h ago
+Nah, i see where they are coming from.
+
+Hiring is not about finding the best candidate anymore as it is finding a good enough candidate.
+
+If I were given thousands of resumes, I wanna get rid of as many as possible even if it means getting rid of perfect candidates.
+
+As a tradeoff though, I think we should abandon the idea that hiring is meritocratic and that the inability to land a job is attributed to a "skills issue", which is a common notion I see in this field/sub.
+
+
+Upvote
+49
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+4 more replies
+Dry-Magician1415
+•
+7h ago
+It’s an efficiency thing. Sure in an ideal world with unlimited resources and time, you could assess everybody well. 
+
+But… they have to do what is going to give them the best chances of a good enough hire given limited time/resources. 
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+6 more replies
+Howfuckingsad
+•
+8h ago
+Interesting take. I'm sure there are a bunch of cool self taught people in CS but there definitely are people who barely have any experience with code who just want to get a good salary. The volume of such people applying is definitely too high currently. Fair opinion honestly.
+
+
+Upvote
+23
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+3 more replies
+u/Fabulous_Sherbet_431 avatar
+Fabulous_Sherbet_431
+•
+4h ago
+lmao, u/cs-grad-person-man, a newly created throwaway account, throws red meat to the sub about their company announcing (what the fuck does this even mean?) that self-taught engineers need to pound sand. And then everyone clapped.
+
+
+Upvote
+11
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Admirable_Ad_5034
+•
+7h ago
+My company did this exact same thing about 6 months ago. Degrees required for all positions and they implemented internal minimum years of experience for positions (example, SWE 2 requires 2 or more years of experience no matter what)
+
+Similar pay for junior level too
+
+
+Upvote
+8
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Puppet_Chad_Seluvis
+•
+3h ago
+My company just started doing the opposite!
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+florimagori
+•
+7h ago
+Software Engineer
+I am not gonna dispute the validity of this particular post, but I worked in a company that did that around 1.5 years ago. And I hear plenty of companies do it now. This move isn’t as „out there” as people suggest in this post.
+
+IT recruiting is kind of failing because of its own success if that makes sense. Bootcamp owners and recruiters spent years convincing others that just anyone can become a software dev, general public believed them and now about anyone tries to become a dev. And I honestly wish them luck, but I just don’t think everyone is suited for that job, contrary to what people selling courses will tell you.
+
+I am not exactly self-taught, but I haven’t finished IT degree per se (different engineering, my Uni programme was heavy on programming tho). I would probably have harder time getting a job with that degree comparing to people with CS degree.
+
+
+Upvote
+3
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/RespectablePapaya avatar
+RespectablePapaya
+•
+7h ago
+This has long been predicted to happen during the next pull-back in hiring. When there's a shortage of workers, companies lower their hiring standards. It famously happened in 1999 and happened again in the late aughts. With AI I'm not sure there will ever be another shortage of that magnitude.
+
+
+Upvote
+3
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/jhkoenig avatar
+jhkoenig
+•
+7h ago
+This requirement is becoming quite common. Self-taught or boot camp employees take more upskilling (a generalization, of course) than uni grads. Given the job-hopping trend, these hires don't stay long enough to return value commensurate with their onboarding costs.
+
+
+Upvote
+3
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Acrodemocide
+•
+7h ago
+Whenever we open a new entry level software position at my company, we get thousands of applications flooding in. The crappy things is that you have a lot of people hoping to get in because they know how to write an if-statement or a really basic script. It ruins it for those who are truly self taught.
+
+I'm trying to get it in place for my current company, but in a previous software company, we had a basic coding test applicants had to go through before they could submit an application. Only people who passed the test would move on to be considered for interviews. It weeded out all the people who watched one or two YouTube videos or people who wrote a simple "hello world" application over a weekend to people who actually learned the concepts they needed for the job. Plus this filter was something that was automated and didn't require us to talk spend very much time on a candidate until we could determine that were a serious candidate.
+
+I'm a big fan of providing opportunities to a wide array of people from various backgrounds, so having a test anyone can take provides a way for self taught people, coding boot camp people, degree people, and work experience people all to have an equal chance at getting an interview.
+
+
+
+Upvote
+3
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Ecstatic_Top_3725
+•
+6h ago
+Those YouTubers are part of the problem
+
+“How I went from 30k to 150k in 6 months learning basic html and JavaScript”
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+reverendsteveii
+•
+6h ago
+hope my spaghetti is don’t crash in prod
+big tech company, fully remote, starting pay for juniors is around ~150k USD.
+
+Yo I'm making 140 at senior w a degree and 6 YoE. Y'all hiring?
+
+
+Upvote
+3
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/ok_throwaway161 avatar
+ok_throwaway161
+•
+6h ago
+company announced Friday that it would no longer be hiring self-taught applicants
+
+Companies never do announcements like that.
+
+Don't do fake posts like that, with your lame "ok" responses when people expose you as a liar.
+
+
+Upvote
+5
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+u/MarcableFluke avatar
+MarcableFluke
+•
+8h ago
+Senior Firmware Engineer
+completely self taught
+
+Username does not check out.
+
+
+Upvote
+10
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+8 more replies
+CobblinSquatters
+•
+8h ago
+starting pay for juniors is around ~150k USD.
+
+Troll post
+
+
+
+Upvote
+17
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+blueg3
+•
+6h ago
+What? That's a pretty normal L3 (entry level) pay for big tech.
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/CommunicationDry6756 avatar
+CommunicationDry6756
+•
+7h ago
+Salary information at tech companies is pretty transparent, you could verify this in like 30 seconds.
+I have to move across the country to work in an office so I can participate in “our company culture” while half our team works from other locations, not to mention entire new teams are being stood up in India. We’re all remote from each other anyways, why are you forcing me drive to an office where every meeting is a video call anyways?
+
+
+Upvote
+724
+
+Downvote
+
+434
+comments
+
+Share
+Share
+Sort by:
+
+Best
+Add a comment
+Ok_Fee1043
+•
+19h ago
+They can’t monitor you
+
+They have leases on real estate
+
+They don’t want you to apply for other jobs
+
+
+
+Upvote
+1.6K
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+DielsAlderRxn87
+•
+19h ago
+Getting rid of WFH makes me want to apply for other jobs tho
+
+
+
+Upvote
+698
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Machinedgoodness avatar
+Machinedgoodness
+•
+18h ago
+•
+Edited 12h ago
+No they mean multiple jobs. Ever heard of overemployment? Shit since WFH I’ve been able to day trade. It’s been fantastic. Many people do multiple remote jobs and employers don’t want that.
+
+There’s a whole subreddit for this.
+
+Also tax benefits for having people in office. States give it to the big companies:
+
+https://www.bloomberg.com/news/newsletters/2023-02-21/tax-breaks-threaten-work-from-home-as-ceo-s-get-return-to-office-incentives#:~:text=Cities%20and%20states%20grant%20billions,%2C%20done%20primarily%20on%2Dsite.
+
+
+
+Upvote
+205
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+JonathanL73
+•
+17h ago
+•
+Edited 16h ago
+Shit since WFH I’ve been able to day trade. It’s been fantastic.
+
+Daytrade is a trap and a fool’s errand, please stop now before you learn too late.
+
+Warren Buffet didn’t get rich off daytrading.
+
+Nancy Pelosi’s husband isn’t even daytrading either, he’s doing “Leaps” long term option calls.
+
+If daytrading was highly profitable you wouldn’t see a million different YouTubers trying to sell you a course on it.
+
+Fidelity did a study where the best preforming portfolios were done by customers who traded little to none. They just buy and hold longterm.
+
+Daytrading is not worth it, unless you’re a high frequency trading hedge fund, or you’re a quant with a successful algorithm to automatically place and sell trades, however even as an algo-trader your trades are still not as fast enough to compete with the speeds of hedge funds.
+
+In other words stop daytrading and just invest instead.
+
+
+
+Upvote
+319
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/username_6916 avatar
+username_6916
+•
+17h ago
+Software Engineer
+You're up against the kind of people who spend millions to physically move closer to the exchange to shave some fraction of a millisecond on trade execution. No, you're not going to beat the spread on a laptop at home.
+
+
+
+Upvote
+228
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/VeniVidiWhiskey avatar
+VeniVidiWhiskey
+•
+16h ago
+The most important factor is really the informational advantage that professionals have. They have expensive subscriptions to platforms like Bloomberg, extensive networks in relevant companies and industries, and access to exotic instruments for advanced trading strategies. The milliseconds definitely come into play, but more so for HFT 
+
+
+
+Upvote
+90
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Mcluckin123
+•
+14h ago
+And their mates insider trading with them
+
+
+Upvote
+54
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/redj_acc avatar
+redj_acc
+•
+15h ago
+Exotic instruments?
+
+
+
+Upvote
+7
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Alexandur avatar
+Alexandur
+•
+15h ago
+Yeah stuff like the erhu, sitar, etc.
+
+
+
+Upvote
+49
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+mr_properton
+•
+11h ago
+😂
+
+
+Upvote
+5
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+theshadowhost
+•
+15h ago
+yes IBs have an exotics desk. they are like custom deals for securities
+
+
+
+Upvote
+12
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/redj_acc avatar
+redj_acc
+•
+14h ago
+sounds cool. just went down youtube rabbit hole ty for sharing
+
+
+Upvote
+6
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+
+1 more reply
+JonathanL73
+•
+17h ago
+You're up against the kind of people who spend millions to physically move closer to the exchange to shave some fraction of a millisecond on trade execution. No, you're not going to beat the spread on a laptop at home.
+
+Exactly this!!!! You said it better than I did.
+
+
+Upvote
+71
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Wonderful_Device312
+•
+13h ago
+You're not even "up against" them. Retail brokerages are often selling your trade information or doing other nasty stuff that basically guarantees every trade you make is rigged against you.
+
+They're great white sharks and you're not even a shark. You're the chum and your brokerage is serving you up as a snack.
+
+
+Upvote
+32
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+29 more replies
+u/jorgen_mcbjorn avatar
+jorgen_mcbjorn
+•
+15h ago
+Just buy and hold and wait 30 years? But that doesn’t sound very active and manly to me. That can’t be right…
+
+
+
+Upvote
+31
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+pornthrowaway42069l
+•
+11h ago
+It's only for pro fem-boys, gotta afford being fabulous somehow.
+
+
+Upvote
+13
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/fried_green_baloney avatar
+fried_green_baloney
+•
+9h ago
+Software Engineer
+a trap and a fool’s errand
+
+Old Wall Street saying, "everyone's a genius in a rising market".
+
+I know several people who started daytrading, one in the dot com boom, two in the pre-2009 bull market, and when the market tanked they both stopped making money even though "daytrading works in any market".
+
+
+Upvote
+11
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+SilentGuyInTheCorner
+•
+16h ago
+Can agree to that.
+
+Used to day trade but the profits were just shit. I used to earn 2k to 3k per month as profit.
+
+But, I started buying and holding shares. After few months, I earned more in few months than I could in a year with day trading. Imagine earning 40% profit in just 3 months with total amount invested. I put 30k and earned roughly 20k in three months.
+
+
+
+Upvote
+13
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Davileet2
+•
+11h ago
+With luck? Did you do it again the next few months?
+
+
+Upvote
+5
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+2 more replies
+u/theediblearrangement avatar
+theediblearrangement
+•
+17h ago
+it's fucking hilarious how warren buffet is one of the richest people in the world (and sometimes the richest), yet there are armies of people telling him he's wrong.
+
+side note: read the intelligent investor if you're interested in investing
+
+
+Upvote
+30
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Admirral avatar
+Admirral
+•
+15h ago
+You aren't wrong, but I love how you focus on just a single aspect of his comment.
+
+
+Upvote
+15
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+
+18 more replies
+u/Invoqwer avatar
+Invoqwer
+•
+17h ago
+Many people do multiple remote jobs and employers don’t want that.
+
+If employers don't notice any hit to productivity, why do employers care? I'm out of the loop with this. Cheers.
+
+
+
+Upvote
+29
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Jaegernaut-
+•
+16h ago
+•
+Edited 4h ago
+Most employment contracts and agreements stipulate a "moonlighting" clause that prohibits you from having another full time role at the same time.
+
+It's not legally binding or anything, unless you're like a surgeon or a nuclear reactor tech maybe, or a pilot, etc.
+
+But if an employer finds out you're working another gig that is full time it's a terminable offense because well you did sign that agreement, and they get to set policy.
+
+As far as why they'd care? Maybe 1 in 10 employees would be productive and efficient enough to do both jobs to their fullest potential, the rest take from the goose and give to the gander.
+
+Also, companies don't want you to have options like that. Which is ironic because everyone is all "design the high availability so that the thing still works even if most of it goes sideways!"
+
+Well they don't want you to be resilient and highly fault tolerant in terms of the job market -- they want you to stay in your box, take your 2% annual merit increase if you're lucky enough to get that, and if you don't like it they want you to be scared of having to "start over" some place else after the hassle of interviewing, changing roles, maybe moving somewhere, all of that.
+
+Being able to tell Company A well hey fuck you, and I'll be fine because I already have B and C on the "payroll" so to speak, is ideal for the worker but very not ideal for the employer.
+
+But y'know, fuck em. Workers interests are always at odds with employers interests so who gives a fuck what they think
+
+
+
+Upvote
+37
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/UltimateInferno avatar
+UltimateInferno
+•
+15h ago
+Also, the reward for efficient productivity is more work. If you get your job done and hide the fact that you still have a productive drive that's "money" you're "taking away" from them. If you're three hours into the work day and completed every task given to you, do you report you're done? My advice: no. Because they don't want you to do your salary's worth of work.
+
+
+
+Upvote
+18
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Alive-Bid9086 avatar
+Alive-Bid9086
+•
+14h ago
+It does not work like that for me. I have the work tasks I perform from home, but every now and then someone calls or there is an online meeting I need to participate in, i.e. talk, not just pretend to listen.
+
+
+Upvote
+6
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+AchillesDev
+•
+14h ago
+Sr. ML Engineer | US | 10 YoE
+I'm glad I haven't had one of these in several jobs. A lot of places will recognize high performers will want to do things like write books, consult, etc. and don't want to get in the way of that. Work time is work time, your time is your time.
+
+
+Upvote
+6
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+5 more replies
+a_reply_to_a_post
+•
+16h ago
+because it gives employees options and in business you don't want to give anyone an advantage or some alpha shit like that
+
+
+
+Upvote
+13
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+SpeakCodeToMe
+•
+9h ago
+See: depending on your employer for healthcare and business resistance to universal healthcare in the US.
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+4 more replies
+u/blue60007 avatar
+blue60007
+•
+11h ago
+How common is the overworking thing, though, really? Myself and a lot of my peers are WFH and one job is plenty of work. I don't even know how that'd work. It's also against policy in every job I've worked and seems like a great way to stress out and lose all your jobs.
+
+I don't doubt it happens, but feels like an overblown fear if that's really what employers are worried about. 
+
+
+
+Upvote
+6
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Machinedgoodness avatar
+Machinedgoodness
+•
+10h ago
+I do think it’s overblown. But people do it. I personally don’t. Coding for work and meetings is mentally consuming enough so I just use WFH for other aspects of my life and make small side income or at least save money on food lol
+
+
+Upvote
+7
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+u/BATMAN_UTILITY_BELT avatar
+BATMAN_UTILITY_BELT
+•
+18h ago
+How can states even track that? Like what’s to stop a company from lying and saying they’re in office? How can states even verify?
+
+
+
+Upvote
+8
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Moloch_17
+•
+18h ago
+They'll send an auditor to check
+
+
+Upvote
+12
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/jonknowzeverything avatar
+jonknowzeverything
+•
+18h ago
+An office in prime location drives active business in that area. Primarily restaurants, hotels, small business, etc. a company moving to a new location gets tax benefits because it brings with it some supplementary jobs
+
+
+Upvote
+8
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+39 more replies
+Amazingawesomator
+•
+8h ago
+Software Engineer in Test
+another reason to return to office; a cheaper way to do layoffs... just wait for 20-40% of your engineers to quit.
+
+
+Upvote
+8
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+2 more replies
+Ok_Fee1043
+•
+19h ago
+Yeah, completely fair
+
+
+Upvote
+13
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+20 more replies
+u/Norse_By_North_West avatar
+Norse_By_North_West
+•
+16h ago
+My employer went the other way. They own the floor of the building we're on, we originally used to use half of it. We slimmed down they leased to other people. Covid happened, they leased to other people. Now they cut almost all office space, it's down to 2 offices and 5 desks, from 3 offices and 20 desks with 3 boardrooms. I went into the office to move my computer a few weeks ago, was the first time I was at the office in years.
+
+
+
+Upvote
+18
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Potential_Cover1206
+•
+12h ago
+I do know a few people who work for companies that have gone from a block to a floor and a few meeting rooms. Leases fell due at just the right time to shrink that budget.
+
+
+Upvote
+6
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+AxiomaticSuppository
+•
+19h ago
+They can’t monitor you
+
+They can monitor your activity on a company laptop. And you're still responsible for your work. Any company that wants to "monitor" you more than that probably isn't worth working for.
+
+
+
+Upvote
+61
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Ok_Fee1043
+•
+18h ago
+Obviously you’re responsible for your work whether at home or in-office. But they’re much more easily able to call you into an impromptu project status meeting when you’re right around the corner (though of course they can ping you or tag you in a status document).
+
+I should’ve said “can’t monitor you as openly and easily.” It’s easier to monitor you when you’re on the same WiFi network than on your home network. And while companies can read your communications, they’re not actively sitting and going through them unless there’s a flag up.
+
+
+Upvote
+21
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+4 more replies
+u/AlarmedMarionberry81 avatar
+AlarmedMarionberry81
+•
+12h ago
+If they can't tell if you're being productive from your output alone then they're doing something wrong honestly.
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/joedirte23940298 avatar
+joedirte23940298
+OP
+•
+18h ago
+They can monitor my progress via the scrum board
+
+I have a mortgage on my house and think it’s a waste to keep it unoccupied 1/3 of the time.
+
+People were able to apply for jobs before WFH, it’s not that hard.
+
+
+
+Upvote
+56
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+GuyWithLag
+•
+15h ago
+Speaker-To-Machines (10+ years experience)
+Insert Thor meme "... but can they, really?"
+
+(not whether they _could_ - whether they _can_)
+
+
+Upvote
+6
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+u/AniviaKid32 avatar
+AniviaKid32
+•
+17h ago
+They can’t monitor you
+
+Who's gonna monitor me in the office when the entire rest of my team is on the east coast when I'm the only one in the Midwest tho
+
+
+Upvote
+12
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/theediblearrangement avatar
+theediblearrangement
+•
+17h ago
+and getting rid of it is a good way to shed excess employees (especially COVID hires that weren't even local to begin with)
+
+
+Upvote
+6
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/ralian avatar
+ralian
+•
+7h ago
+Also the remote job pool is an absolute disaster. I’d say about 95% of the applicants are either seriously under qualified or outright fake. Zoom calls make you question where they’re from and most have ‘unstable’ connections. Our typical posting gets several hundred resumes in a few hours, our filtering brings it down to a half dozen or so to interview to realize that nearly all of our interviewees are fake, with the real one frankly not great. This leaves us with taking on a middling candidate or restart the process
+
+
+Upvote
+6
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+wicodly
+•
+17h ago
+Software Engineer 4YOE
+Can someone explain the lease thing to me? I’ve seen this point so much but it never makes sense. In an occupied or unoccupied building costs the same to them. However unoccupied you can cut costs everywhere. Electricity, water, office supplies, internet, office furniture, etc.
+
+If they are worried about bottom lines, this should be the first thing you attack. Especially if they put in your contract you are responsible for having your own internet and etc.
+
+
+
+Upvote
+8
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/csasker avatar
+csasker
+•
+15h ago
+L19 TC @ Albertsons Agile
+An empty building would in fact. E cheaper, less cleaning and heating Needed 
+
+
+Upvote
+7
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/BossDingus avatar
+BossDingus
+•
+15h ago
+A lease is for a fixed term and a consistent cost. If you were responsible for a 5 year renewal on an office that nobody uses, it's not a great look to your investors. Never mind where you own a building like Apple with their $5 billion investment that they'll never ever get back. I'd be calling people back to the office if I'd sunk that much into real estate.
+
+That and if you're C level you're probably invested in assets which would include some aspect of commercial property. That kind of affects everyone with investments of some sort.
+
+
+Upvote
+9
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+2 more replies
+
+1 more reply
+
+15 more replies
+u/FatedMoody avatar
+FatedMoody
+•
+18h ago
+I work remote and absolutely love it but I could see why companies might not.
+
+I’m friendly with my coworkers, but not in the same way as I was in the past, when I was in the office. This then makes it very easy for me to move on without a problem. It wasn’t impossible back when I was in the office but it’s even easier now
+
+As a senior engineer have no problems I’m pretty much self-guided. I know exactly what I need to do and I only pop up when I have questions for people however, for junior engineers much more difficult. They can’t really pop in and ask questions. I could definitely see some of them, missing out on the mentorship part of the workplace
+
+
+
+Upvote
+358
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/multiple4 avatar
+multiple4
+•
+18h ago
+I feel like this is just a WFH culture issue as much as it would be in an office though. Junior engineers should have the ability and comfort to ask for help or advice. Anyone should have that
+
+But you have to make it a conscious effort as an organization to setup that environment and channels through online sources
+
+It might be slightly harder and it's new to a lot of people, but it's very possible
+
+
+
+Upvote
+76
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/FatedMoody avatar
+FatedMoody
+•
+18h ago
+Nah, I would have to disagree there. Juniors know they are free to slack me and setup meeting anytime. I promptly answer all requests and I’m very available but it’s not the same as being in the office because it’s not the same as spending basically 8 hours together. Also often companies I was with we would have lunches or team outings to further build a bond and trust
+
+I try to joke around w colleagues and get to know them at a personal level but we don’t have the same comfort as if we were in person which I’m ok with but I could see others having problems
+
+
+
+Upvote
+128
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/reaprofsouls avatar
+reaprofsouls
+•
+14h ago
+My fiance is a therapist and she wishes she could refuse to provide teletherapy.. Especially with couples. It's very difficult to bond and truly understand the nuances of interactions with people.
+
+That being said, I think it's a question of do you need this from a job? How much bonding is required to do good work? I join some of my meetings with cameras on and have gotten to know a few members of my team very well and we have a good time. I don't work more because of it, I also don't do better work.
+
+My biggest complaint of wfh is the inability to get help. A lot of my teammates aren't reachable on teams. They will disappear for hours and hours throughout the day. It may take 4 messages over two days to get any help.
+
+
+
+Upvote
+35
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/KublaiKhanNum1 avatar
+KublaiKhanNum1
+•
+9h ago
+Software Architect
+I think it depends on the company. My company is largely remote. We don’t have enough office space to bring even half the company into the office now.
+
+We are really good at mentoring and helping each other remotely. We use Slack and just jump into a huddle and do pair programming. I was actually doing this at other jobs while in the office. You can see the whole desktop via Huddles and it is so much easier than standing over someone’s desk and disturbing everyone around. Works out really good.
+
+In the office or not I think rewarding teams with bonuses/recognition for meeting milestones and good collaboration goes further than being in the office or not.
+
+
+Upvote
+8
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Ok-Replacement9143 avatar
+Ok-Replacement9143
+•
+11h ago
+I also feel like in most cases the whole process can take a while. A jr has a question and you're in the office? He can visually judge if your too busy or not, if you're not he can just pop by, if you are, he can wait until you go get coffee of something. Ask the question, the sr may check the jr's screen. Everything is done in like 5/10 minutes.
+
+Having to do that online? First they/you won't see the message for 3 hours. Or it is not very well explained and you have to ask for clarification.Then you may have to schedule a meeting, which can be a whole other issue, because a meetings feel psychologically different than just stopping by. Then you have problems, your internet sucks that day, your mic is not working, you're using linux and the screen sharing on Teams is giving you problems.
+
+This type of semi formal communication is an issue that I do believe is worse when WFH. Probably the only big issue imho.
+
+
+Upvote
+16
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+2 more replies
+u/Hot-Independent-4486 avatar
+Hot-Independent-4486
+•
+16h ago
+Literally the solution to this is quarterly off-sites with the team.
+
+Ditch your commercial real estate. Use a fraction of that spend to fly people out quarterly to bond and work together.
+
+My company does this. I know many others, like Yelp, Atlassian, Salesforce and others do as well.
+
+
+
+Upvote
+22
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Complete_Sport_9594 avatar
+Complete_Sport_9594
+•
+14h ago
+I get your point but meeting three times a year is absolutely not the same as seeing someone several times a week irl
+
+
+Upvote
+32
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+u/csasker avatar
+csasker
+•
+15h ago
+L19 TC @ Albertsons Agile
+I don't disagree with you, but it's still extra effort for companies compared to just being at the office 
+
+
+Upvote
+7
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/the_pwnererXx avatar
+the_pwnererXx
+•
+14h ago
+seeing people 4 times a year isn't the same as seeing people 5 days a week
+
+
+Upvote
+10
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+6 more replies
+u/Drayenn avatar
+Drayenn
+•
+8h ago
+My team is super vocal and we help each other a lot, pair programming is frequent. We also have a 24/7 teams meeting we can chill in optionally so we treat that like a good old voice chat channel...
+
+I fail to see how wed cooperate better in office. All it would bring is more time spent talking about random stuff.
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+
+6 more replies
+
+3 more replies
+TerribleEntrepreneur
+•
+18h ago
+I can only speak to early stage companies, as I know many founders and am one myself (although, I am pro-remote).
+
+Some common reasons:
+
+It's their baby. They didn't want to go in when it was for other companies but now it's theirs they want tight control and to form it exactly how they want. It's less fun for them if it's remote.
+
+They don't know how to hire for remote. It requires a different strategy and you need to look for different signals.
+
+It's seen as an unnecessary risk. You have a million and one risks to worry about. Your goal in moving the company forward is really mitigating and reducing as many risks as possible. If they don't feel strongly, they will choose the seemingly less risky option.
+
+Investors insist on it. Quite a few VCs won't invest in remote-first companies for various reasons (some unknown).
+
+Remote is an easy scapegoat. If you have failed to deliver, you can make it seem to investors things will improve if you return to office. Just say that the remote experiment failed. It's not because the founder had an unviable business model.
+
+
+
+Upvote
+213
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+EarthquakeBass
+•
+17h ago
+(1) is really true, a lot of founders basically make the company their entire social life. Starting a company is so overwhelming and preoccupying that you’re more likely to want people around you physically
+
+
+
+Upvote
+50
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+harman097
+•
+7h ago
+So much this.
+
+There are a good number of people who make it their social life - especially if they're older and have kids and just want to get tf out of the house during the day. Those people tend to be the ones who've climbed to the top and make those decisions so...
+
+
+Upvote
+6
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+doktorhladnjak
+•
+17h ago
+This is a great list of real reasons that don’t boil down to the usual conspiracy theories about RTO. Many of these apply to bigger companies too.
+
+
+Upvote
+67
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+AchillesDev
+•
+14h ago
+Sr. ML Engineer | US | 10 YoE
+I work remote for an early stage company (joined pre-seed, coming up on series B), and while these weren't concerns for our particular org, I've seen this for others (and we've worked through these reasons all together when deciding if we'd ever go into an office) and, while I wouldn't work at these orgs the reasons are certainly reasonable.
+
+One I would add is that other departments (sales, marketing) will often prefer to be in office together. You have to keep the org healthy and happy, and that isn't just engineers, even in a tech startup. We solved it by having regular all-company get-togethers (we get a WeWork for a few days a quarter), and sales and other groups have satellite 'offices' near them that they optionally work together at.
+
+
+Upvote
+20
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/definitelynotlazy avatar
+definitelynotlazy
+•
+10h ago
+4th point is what breaks the camel's back
+
+the moment we started relying on VCs to create businesses is the moment we dragged ourselves down to a newer low
+
+
+Upvote
+14
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+jmking
+•
+9h ago
+•
+Edited 9h ago
+Tech Lead, 20+ YOE
+Why would investors insist on it?
+
+If we're being honest with ourselves, having a group of people co-located together is going to move faster and more efficiently in quick decision making, organic brainstorming, getting people unblocked, etc etc etc
+
+It forces everyone to be focused and in sync.
+
+These benefits are less true at much larger companies as to whether you're in the office or not with your immediate team. You're already bogged down in doc writing and sync meetings with teams who are already not in the same timezone as yours that it barely changes things. In fact, for big companies, WFH may actually be more efficient.
+
+
+
+Upvote
+11
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/demosthenesss avatar
+demosthenesss
+•
+5h ago
+Senior Software Engineer
+If we're being honest with ourselves, having a group of people co-located together is going to move faster and more efficiently in quick decision making, organic brainstorming, getting people unblocked, etc etc etc
+
++1 this is the real underlying reason in most cases.
+
+As much as people love to talk about how they are just as productive at home, it's a different type of productivity.
+
+Remote work benefits work/problems that are easily split into parallel isolated tracks. If you have a 3 week project to build something which largely doesn't need/impact/interact with others? Remote is great - no distractions, go to town.
+
+But if that 3 week project requires 10 touch points with different people, or worse you don't know it will require that many but it ends up needing a bunch? Yikes. Remote is worse by far.
+
+I think a lot of engineers too want the model where someone splits work into multi-day isolated work chunks they can do without interacting with others.
+
+
+Upvote
+7
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+Amazingawesomator
+•
+8h ago
+Software Engineer in Test
+all but the VC option listed above sounds like one person unsure of themselves with a power trip :/.
+
+"time to make everyone miserable so i can look 4% better at doing my job."
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+
+4 more replies
+jrt364
+•
+19h ago
+Software Engineer
+Multiple possibilities:
+
+Older generations are still leading some companies and are sticking to their old ways. They literally don't understand younger generations. They all say, "Back in my day…"
+
+Some companies had invested in physical office spaces by signing 10-, 15- or even 20-year contracts pre-COVID, or even outright buying properties pre-COVID. Then they don't want to admit their investment backfired, so they pretend that WFH is going against "company culture."
+
+Some jobs actually need to be in-person, and I say this as a permanent remote employee. For example, if your company has physical tech in the office (namely servers) and you are partly responsible for maintaining it, then you really do need to be there.
+
+
+
+Upvote
+103
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/rusty-fruit avatar
+rusty-fruit
+•
+18h ago
+I think number 1 is usually the main culprit. And yeah not much you can do about 3. I’ve worked in DoD my entire career and never have an issue with that, though work can be mixed so you can still WFH in many DoD positions.
+
+When you give people freedom to choose their working conditions you get more buy in and some people will sometimes be encouraged to come into the office to meet with their colleagues. Putting blanket requirements to be in office for no reason only pisses people off and makes them lose focus from their job.
+
+
+
+Upvote
+43
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/raptor217 avatar
+raptor217
+•
+18h ago
+The biggest pull of WFH for companies is you can get the absolute best of the best candidates. There’s no getting around #3, but lots of companies try to say normal in person meetings are required when half the people are remote.
+
+
+Upvote
+14
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+2 more replies
+u/incywince avatar
+incywince
+•
+17h ago
+I work fully remotely. WFH is more popular now than before. That said, there's a few reasons companies are reluctant to make everything fully remote.
+
+It's nice when talent is local. Nothing like everyone in one room hashing things out. Several startups I interviewed with seem to want people to be local even if working remotely because when in a pinch they just want to get a wework space and hash things out.
+
+It's very very hard to onboard new employees, especially new grads, remotely. You need a very very strong remote culture to be able to do that without too many problems.
+
+I worked at a global remote type company previously. We were all local with a few specialists working fully remotely to start with. During the pandemic, they made it fully remote and hired people all around the world. It was HELL and I hated it. I was blocked a lot because people weren't in the same timezone as I was and weren't online the same hours I was. I ended up having to work at all hours just to coordinate with people and it messed my mental health and family life to such an extent that I had to quit.
+
+I've worked at companies previously where shit wouldn't get done until you actually showed up at their goddamn desk and said "hey do this for me". Having that option is quite valuable.
+
+It's really hard to have a company culture while fully remote. You can get coding done if you're organized enough. Other kinds of jobs are quite dependent on interpersonal connections, and it's hard to nurture those unless there's an office culture. It becomes quite hard to progress beyond a point without an in-person culture.
+
+I'm increasingly seeing companies want jobs to be hybrid. They recognize the jobs to be doable fully remotely, but they want to be able to have in-person events and some kind of office culture happening so they can have new grads connect and be groomed, and be able to scale up in-person stuff when there is a necessity instead of that being off the table.
+
+It's really hard to bond with people without being present in person. I like my colleagues a lot, but I honestly have no clue what their lives are like and it feels too rude to even ask. Slack channels go out to the whole goddamn company and it becomes super hard to be yourself. Most messages are either super curated or the informal channels become dominated by the noisiest few people. I miss having lunch with colleagues and earlier in my career, I made great lifelong friends at work despite being quite an introvert. I don't see too many opportunities for that now and that makes work life a lot less rich. I like the option to have to be in office now and then and get to know your colleagues well enough.
+
+I don't know why amazon expects you to badge in everyday even if you're in a different location from the rest of your team etc, that seems to be some big-company ass-covering, but also amazon seems to constantly do a lot of crap that inconveniences employees for no reason.
+
+
+Upvote
+37
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+4 more replies
+u/termd avatar
+termd
+•
+18h ago
+Software Engineer
+If you set aside the "they hate us" kind of responses, there is 1 big one. Ramp up of new hires is not good with wfh. Or, the management perception of the ramp up of new hires is not good at least.
+
+I'm sure there are some teams that have mastered integrating new hires with remote, but a lot of us kind of sucked at it. It's extremely noticeable how much worse the covid hires are compared to how my peer group was at the same level of experience. For my job, part of it is increased hiring and the inevitable lowering of standards, but my managers definitely believe that wfh is playing a role. Our new(er) hires have also commented on how much more they feel like they're learning from us being in the office together.
+
+We’re all remote from each other anyways
+
+The end state is that we won't be remote from each other. People will be moved around to be colocated within the same cities eventually. My team has frozen hiring but we've already preparing to change from us/canada hiring to seattle only.
+
+
+
+Upvote
+82
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/bowl_of_milk_ avatar
+bowl_of_milk_
+•
+17h ago
+I think the ramp up issue is legitimate, especially for juniors. I just started my first job in January with a hybrid schedule and I really don’t feel like I’m progressing as much when I’m at home. The friction to ask questions is also much higher because I can’t just pop my head over a cubicle, conversations take longer to resolve, verbal discussion requires zoom meetings, etc.
+
+
+
+Upvote
+25
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+PhysiologyIsPhun
+•
+9h ago
+EX - Meta IC
+Maybe for juniors but I've been remote for the past 5 years and never had any issues ramping up. In fact, I feel I ramp up faster when I'm remote because I don't have a bunch of people I don't know coming up and trying to chat with me when I'm trying to get through some onboarding work. And the same goes for people I've onboarded. Here's a doc that has every step you need to complete. Ask me any question and there is no such thing as a stupid question. It's really not that hard.
+
+
+Upvote
+12
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+u/thodgson avatar
+thodgson
+•
+9h ago
+Software Engineer | 30 YOE
+Then your department/group is doing it wrong. You should have a mentor or buddy on speed-dial or chat that you can ask any question at any time. That's the secret sauce.
+
+The barrier is, quite often, the new person is afraid to ask via chat, but less-so in person. Doubt creeps in while remote those first few weeks. Breaking that down is key and is easily solved.
+
+
+Upvote
+8
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+
+1 more reply
+doktorhladnjak
+•
+17h ago
+They saw this where I work too. More people who ramped up remote were fired or quit within the first year compared to pre COVID hires. It’s especially true with junior hires.
+
+The other interesting factor is a reduction in trust. People don’t know others on different teams. It has created more of an “us vs them” culture where other people are just boxes on a screen.
+
+I think it’s made the culture harsher and less personable
+
+
+Upvote
+14
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+3 more replies
+Schedule_Left
+•
+17h ago
+At one of my jobs the CEO forced everybody back into office but that bloke was never even there. It really just seems like a power move. Like then want to tell you that they own you and that you'll do whatever they tell you to do. The people in office always make such a big deal when the other person who's working from home doesn't immediately reply or answer a surprise video call.
+
+
+Upvote
+11
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+2 more replies
+u/ChineseAstroturfing avatar
+ChineseAstroturfing
+•
+19h ago
+One reason is because often these companies own expensive real estate that’s no longer being used and has dropped significantly in value.
+
+If your company claims to advocate for fighting climate change and insist people drive to work everyday call them out on their bullshit. Name and shame anonymously.
+
+
+
+Upvote
+147
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+dipsy9
+•
+17h ago
+That's every MNCs in india. Like my company claims to save energy in so much of bullshit ways and mandated us to come to the office thrice a week else non-compliance drama can fire the employee. Also as per the NDA we can't name and shame them on social media for their hypocrisy.
+
+
+Upvote
+15
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/DroughtFloodFamine avatar
+DroughtFloodFamine
+•
+17h ago
+If you work for a company 9.99 times out of 10 they don’t actually give a fuck about climate change… i mean that’s the whole reason climate change is even a thing
+
+
+Upvote
+10
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+u/qqqqqx avatar
+qqqqqx
+•
+18h ago
+•
+Edited 18h ago
+Lots of companies do want people to work remotely, so they can hire more cheaply and have a larger pool of candidates, and more easily let people go with minimal drama. The positions can get more competitive since they get more applications from people across the country instead of just people willing to relocate or already in the area.
+
+--
+
+I know it will be insanely unpopular on this sub and probably heavily downvoted, but there are plenty of advantages to working together onsite. You get easier mentorship and collaboration, stronger team bonding, being able to know for sure that someone is available to ask a question or out for the day, etc. There are certain natural collaborations that happen from being in the same room and having a coffee break together, or looking over at what your neighbor is doing, and those kinds of interactions don't really happen organically over most remote work setups. Some people like Steve Jobs have tried to take that to an extreme, doing things like designing the building in specific ways to maximize little chance encounters for unexpected collaborations. Working remote is like doing the opposite- you don't interact unless you've specifically scheduled or called someone. There might be tons of people you never interact with at all because they're in a slightly different team or department, but if you worked in the office you might meet on the regular, chat about different things, learn from each other, make friends, etc.
+
+Obviously there are different advantages to working remotely as well, like no commute, a broader talent pool, more flexibility etc. But that makes it a legitimate tradeoff with real upsides and downsides for both policies.
+
+I work remotely right now, and I'm very glad to be home since I have a baby and it's easy to take a break and help my family out. But I also know I'm also personally less productive and definitely less in tune with my coworkers. I'm glad I worked previously in my career on site, where I had more direct mentorship and built up some skills and strong connections, and I could see myself doing it again sometime in the future.
+
+
+
+Upvote
+61
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+anor_wondo
+•
+16h ago
+instead of hiring remotely many choose to just open offices in the distant talent hubs
+
+
+Upvote
+9
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+3 more replies
+mwraaaaaah
+•
+18h ago
+RTO doesn't make sense when part of the team is distributed. However, the hard truth that this sub hates to admit is that being in person as part of a collaborative team leads to casual conversations about work and discuss ideas that can yield dividends. These tend to happen a lot less in remote cultures, as there are less opportunities for this to happen organically when everyone is working in their silos.
+
+Of course there are trade offs, but this sub loves to act like there's no benefit to working in the office other than objectively negative reasons like micromanaging.
+
+
+Upvote
+47
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+9 more replies
+u/dallindooks avatar
+dallindooks
+•
+19h ago
+A lot of middle managers would have nothing to do without being able to call meetings and interact in person with people.
+
+
+Upvote
+56
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+8 more replies
+lednakashim
+•
+18h ago
+Lower management seem to love WFH because they can work from home and retain top talent.
+
+Our investors and board keep pushing for it to go away.
+
+
+Upvote
+6
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+IvanThePohBear
+•
+17h ago
+To be honest.
+
+RTO only applies to the lower levels
+
+At my side, the directors and above still work from home willy nilly and no one ever bothers them😂
+
+
+Upvote
+6
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+MalwareInjection
+•
+16h ago
+Software Engineer
+Boomer mentality. 2/3 of the team is usually in other cities or in India. Doesn't make sense for non client facing roles
+
+
+Upvote
+6
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/faketrayson avatar
+faketrayson
+•
+18h ago
+Something not talked about are the tax breaks large companies receive from these cities for bringing head count to stimulate the economy in said city.
+
+If the head count doesn’t meet a certain threshold, said company is no longer entitled to said tax break. We’re talking big bucks here, especially in cities like SF, NY, and Seattle.
+
+
+Upvote
+22
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+3 more replies
+cMeeber
+•
+15h ago
+Not all of them do. Mine doesn’t.
+
+They spend less money on leasing office space, keeping office snacks/coffee/supplies. There is not as much likelihood of lawsuit which can occur from working in office…less people suing over slipping in the bathroom, over being sexually harassed, etc.
+
+
+Upvote
+5
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Grouchy-Friend4235
+•
+13h ago
+Incapable managers.
+
+
+Upvote
+5
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Ok_Reality6261 avatar
+Ok_Reality6261
+•
+10h ago
+Because stakeholders are invested in real estate
+
+
+Upvote
+5
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+jo1717a
+•
+17h ago
+Feel like people always leave this tidbit out. While there really is a lot of people that thrive and are productive in a WFH setting, there are absolutely people that DO NOT.
+
+I've had so many co-workers that slacked off so hard in WFH setting and they would constantly push their ticket back and couldn't really explain in detail why they are falling behind and are unresponsive in chats.
+
+These bad apples honestly ruin the whole WFH culture.
+
+
+
+Upvote
+21
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Quind1
+•
+17h ago
+•
+Edited 17h ago
+Software Engineer
+I hate to agree with this, but I do. I'm productive working from home, and I know plenty of people who were/are, but I had this one (very young) coworker who would leave without telling people, miss meetings, and go run errands. It was frustrating when you needed to get a hold of him. I have no issue with people taking breaks -- and they should -- but if it's during core hours, you need to be available to answer questions within a reasonable amount of time (i.e., not hours later or the next day).
+
+On a different tangent, I've noticed a tendency of remote people messaging me off-hours. If I'm not on call, don't message me at ten at night or one in the morning. I'm not answering unless it's an emergency. And if I wasn't given a heads-up, I'm not answering at all.
+
+
+Upvote
+14
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+u/Apprehensive_Sir_243 avatar
+Apprehensive_Sir_243
+•
+11h ago
+I agree this is a problem but it's solved by measuring performance by work output. Let them estimate deadlines (with some buffer) to get something done and hold them accountable.
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+
+1 more reply
+nyokarose
+•
+18h ago
+Truthfully, it is more difficult to create a “team” culture virtually. Not impossible, but it adds a degree of difficulty. 
+
+And yeah, it’s slightly easier for someone to skate by doing nothing at home for longer. I have a better pulse on what my in-office people are working on vs my international offices. But there are ways to help work around that.
+
+I work in a large IT organization (several thousand people), and the most effective people are those who have built a network of people across the organization.  While most of us love WFH and we have a degree of flexibility to do that about half the week, there’s a broad recognition that during the pandemic we all met fewer new people, and lost touch with colleagues we’d normally see in the break room, and thereby missed out on some of the “oh yeah, I heard you are working on xyz, have y’all considered…” conversation that happens spontaneously. 
+
+If your IT job is “take this requirement, code it”, that is probably less important than if you’re interacting with a customer base daily and designing enterprise-level systems. 
+
+We do have international offices, and so some of our teams do most of their work virtually. However - I have personally experienced that teams that meet face to face, even just once, have an incredible jump in camaraderie and productivity compared with teammates who have never met each other. Personally, that’s how I’d run a department; fully remote with several mandatory f2f meetings a year based on what makes sense for that team/department. 
+
+
+Upvote
+15
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+u/Machinedgoodness avatar
+Machinedgoodness
+•
+12h ago
+The biggest reason is truly tax incentives. They bought that real estate and they are given incentives from the state for bringing many people to contribute in the local economies by shopping and buying real estate etc. There’s some articles about this:
+
+https://www.bloomberg.com/news/newsletters/2023-02-21/tax-breaks-threaten-work-from-home-as-ceo-s-get-return-to-office-incentives#:~:text=Cities%20and%20states%20grant%20billions,%2C%20done%20primarily%20on%2Dsite.
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+obviously_anecdotal
+•
+10h ago
+Incentives and power plays.
+
+Control - you have too much freedom and too much flexibility when you work from home.They need to monitor you. It doesn't matter if you're more efficient than your coworkers, because companies realized this and they want to get their moneys worth. Instead of getting your work done early then working on a side grind, you now get to sit at a desk for 8 hours in a noisy open office plan.
+
+Economics - Two sides to this. The company might have expensive real estate that isn't being utilized. Leadership has to justify why it isn't being utilized. They also may have tax incentives gives from local municipalities because they bring workers and (more importantly) money to the local business.
+
+Constructive Dismissal - The real gambit. Tech companies realized that layoffs are expensive. Instead of reducing headcount directly and incurring a lot of layoff costs through severance, companies figured out that they could just give you an ultimatum by removing WFH as a benefit. This makes them forcefully removing you about your decision not to come into office. No severance required.
+
+I also have a suspicion that businesses can't get out of leases or loans for these properties.
+
+Overall, it's a stupid power play that does have some economic backing. None of the economic backing actually benefits you as an employee. In fact, it does nothing but incur costs to you as an employee.
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+Rascal2pt0
+•
+3h ago
+I can see all the managers in here claiming people slack off etc… but that happens in the office too the only difference is they just sit there all day because they’ll be disciplined if they take too long for lunch or show up too late too early. It’s 100% a control structure issue, people think butts in seats, hours on a clock = productivity which it doesn’t. Corporations in general are misguided completely on productivity now a days.
+
+
+Upvote
+4
+
+Downvote
+Reply
+reply
+
+Share
+Share
+
+kamikazewave
+•
+18h ago
+A lot of people touched on the established reasons (control, real estate, taxes etc). However, the sad truth is that most statistics seem to indicate that overall performance decreases. Almost every large tech company collected formal / informal metrics during the pandemic on the performance of their SWEs during WFH.
+
+In general
+
+Experienced and tenured employees tended to self report higher efficiency
+
+Junior employees self reported a lower efficiency and a lower rate of learning.
+
+Junior employees took statistically longer to get promoted
+
+General high level metrics went down (# of code reviews, # of lines modified etc. useless at individual level, but very informative at the overall company level).
+
+All employees reported less feeling of comradery with other employees.
+
+This is a combination of data I obtained by being both nosy in my current company (where data is mostly not made public even internally) and talking with friends at Google (where a lot of this data was internally public).
+
+All of these metrics track with my personal experience when WFH started. I never bought a house in the country like a lot of my friends because of it, since the initial data pretty much meant that you had to have a mostly senior workforce with below industry attrition to be coming out ahead with WFH. Since most big tech companies rely on a steady stream of juniors to get trained up to replace senior attrition, it wasn't sustainable without a complete rethink of fundamental corporate HR practices.
