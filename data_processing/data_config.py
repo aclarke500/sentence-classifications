@@ -1,9 +1,9 @@
 # every file in this list must have an associated text file
 names = [
   "aita", 
-  "cs",
+  # "cs",
   "attention",
-  "gender_studies"
+  # "gender_studies"
 ]
 
 # relevant to ./data_processing

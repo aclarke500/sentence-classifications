@@ -3,6 +3,8 @@ import random
 import re
 from sentence_transformers import SentenceTransformer
 from data_config import filepaths 
+import numpy as np
+
 print("Loading model....")
 model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
 print("Model loaded!")
@@ -60,8 +62,19 @@ for path in filepaths:
     write_strings_to_file(path_prefix+'_test.txt', test_sentences)
     
     print(f"Embedding: {name}")
-    train_embeddings = [model.encode(sentence) for sentence in train_sentences]
-    test_embeddings = [model.encode(sentence) for sentence in test_sentences]
+
+    train_embeddings = []
+    for sentence in train_sentences:
+        vec = model.encode(sentence)
+        norm_vec = vec / np.linalg.norm(vec, keepdims=True)
+        train_embeddings.append(norm_vec)
+
+    test_embeddings=[]
+    for sentence in test_embeddings:
+        vec = model.encode(sentence)
+        norm_vec = vec / np.linalg.norm(vec, keepdims=True)
+        test_embeddings.append(norm_vec)
+
 
     train_df = pd.DataFrame(train_embeddings)
     train_df.to_csv(path_prefix+'_train_embeddings.csv', index=False, header=False)
