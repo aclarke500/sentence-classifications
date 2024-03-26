@@ -38,14 +38,6 @@ def predict_classes():
   text = data['text']
   return jsonify(get_model_predictions(text))
 
-# @app.route('/euclidian', methods=['POST'])
-# @cross_origin(origins='*')  # This allows all origins
-# def get_euclidian_class():
-#     data = request.get_json()
-#     print(data)
-#     sentence = data['text']
-#     classes= get_euclidian_predictions(sentence)
-#     return jsonify({"data": classes})
 
 if __name__ == '__main__':
     app.run(debug=True)
