@@ -1,5 +1,4 @@
 <template>
-<h1>Hello world</h1>
 <div class="container">
 <div class="table-row header">
   <h2 class="sentence">Sentences</h2>
