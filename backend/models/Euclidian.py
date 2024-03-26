@@ -32,20 +32,22 @@ def get_prediction_class(word_vec):
       classification = label
   return classification
 
-for group in labels.keys():
-  correct = 0
-  wrong = 0
-  for index, row in labels[group].iterrows():
-    prediction = get_prediction_class(row.tolist())
-    if prediction == group:
-      correct+=1
-    else:
-      wrong+=1
-  print(f'Score for {group}')
-  print(f'Correct:{correct} \t Wrong:{wrong} \t Score:{round(correct/(correct+wrong),2)}')
 
-while True:
-    s = input("Enter a word:\t")
-    vec = model.encode(s)
-    result = get_prediction_class(vec.tolist())
-    print(f'Your word class is {result}')
+
+# for group in labels.keys():
+#   correct = 0
+#   wrong = 0
+#   for index, row in labels[group].iterrows():
+#     prediction = get_prediction_class(row.tolist())
+#     if prediction == group:
+#       correct+=1
+#     else:
+#       wrong+=1
+#   print(f'Score for {group}')
+#   print(f'Correct:{correct} \t Wrong:{wrong} \t Score:{round(correct/(correct+wrong),2)}')
+
+# while True:
+#     s = input("Enter a word:\t")
+#     vec = model.encode(s)
+#     result = get_prediction_class(vec.tolist())
+#     print(f'Your word class is {result}')

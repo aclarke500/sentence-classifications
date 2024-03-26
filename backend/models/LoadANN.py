@@ -1,13 +1,17 @@
 import torch
 from sentence_transformers import SentenceTransformer
-from model_definitions import ANNModel  # Adjust the import path if necessary
+
 
 import sys
 import os # adding filepaths list from data_processing directory
 current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.dirname(current_dir)
 sys.path.append(parent_dir)
+from models import model_definitions
 from data_processing import data_config
+
+# from model_definitions import ANNModel  # Adjust the import path if necessary
+ANNModel = model_definitions.ANNModel
 filepaths = data_config.filepaths
 names = data_config.names
 
@@ -16,7 +20,8 @@ trans = SentenceTransformer('paraphrase-MiniLM-L6-v2')
 model = ANNModel()
 
 # Load the saved state dictionary and set the model to evaluation mode
-model.load_state_dict(torch.load('model_state_dict.pth'))
+# /Users/adamclarke/Desktop/Data/sentence-classifications/backend/api
+model.load_state_dict(torch.load('/Users/adamclarke/Desktop/Data/sentence-classifications/backend/models/model_state_dict.pth'))
 model.eval()
 
 
@@ -39,18 +44,9 @@ def get_expected_class(prediction):
     classification = names[prediction.index(max(prediction))]
     return(classification)
 
-
-
-# Make predictions
-with torch.no_grad():
-    output = model(vectors)
-    preds = output.tolist()
-    for pred in preds:
-        print(get_expected_class(pred))
-
-    while True:
-        sentence = input("Enter a sentence:\t")
-        vector = trans.encode(sentence)
-        output = model(torch.tensor(vector))
-        print(output)
-        print(get_expected_class(output.tolist()))
+def predict(word):
+    tensor_embedding = torch.tensor(trans.encode(word))
+    with torch.no_grad():
+        output = model(tensor_embedding)
+        output_list = output.tolist()
+        return get_expected_class(output_list)
