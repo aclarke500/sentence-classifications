@@ -3,12 +3,14 @@ A project examining different methods of sentence classifications. Currently I'v
 
 ## Requirements
 In order to use this on your own, you will need the following:
+```
 Vue3
 Flask
 numpy
 pandas
 scikit-learn
 PyTorch
+```
 
 ## Usage
 To spin up the server, navigate to the api directory in the backend and run "flask run", and for the frontend navigate to the frontend directory and run "npm run serve".
